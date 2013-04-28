@@ -1,19 +1,7 @@
-/*$code-font-family: Consolas, Monaco, 'Andale Mono', monospace;*/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
-/**/
 /**
- * Prism base code highlighter theme using Sass 
+ * solarized
  *
- * @author @MoOx
+ * @author xiaozi<245565986@qq.com>
  */
 code[class*="language-"], pre[class*="language-"] {
   -moz-tab-size: 4;
