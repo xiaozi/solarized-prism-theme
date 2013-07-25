@@ -6,7 +6,7 @@ solarized theme for prism.js
 ## usage
 
 ```html
-<link rel="stylesheet" href="../solarized-dark.css">
+<link rel="stylesheet" href="solarized-dark.css">
 ```
 
 ## preview
